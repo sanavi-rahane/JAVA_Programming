@@ -1,4 +1,5 @@
-package JAVA_Programming.Assignment.Assignment_34;
+/*
+ */
 import java.util.*;
 
 public class program34_1 {
